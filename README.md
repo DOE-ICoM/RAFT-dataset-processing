@@ -1,2 +1,11 @@
 # RAFT-dataset-processing
 Jupyter notebook to process RAFT synthetic tropical cyclone dataset and generate the figures and statistics in the paper.
+
+## how to cite:
+A North Atlantic synthetic tropical cyclone tracks, intensity, and rainfall dataset. (2023) Wenwei Xu, Karthik Balaguru, David R. Judi, Julian Rice, and L. Ruby Leung, submitted to Scientific Data
+
+## funding acknowledgment
+ This work was supported by the Multisector Dynamics and Regional and Global Model Analysis program areas of the U.S. Department of Energy (DOE), Office of Science, Office of Biological and Environmental Research as part of the multi-program, collaborative Integrated Coastal Modeling (ICoM) project. The Pacific Northwest National Laboratory is operated for DOE by Battelle Memorial Institute under contract DE-AC05-76RL01830. 
+
+## Contact
+Additional questions can be directed to Wenwei Xu (`wenwei.xu@pnnl.gov`).
