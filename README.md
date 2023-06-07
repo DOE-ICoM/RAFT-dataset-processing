@@ -13,6 +13,9 @@ Folder `data` contains the supporting data for the data processing.
 
 RAFT synthetic tropical cyclone dataset can be downloaded from `data.pnnl.gov`.
 
+## track and rainfall dataset:
+The RAFT simulated synthetic track and rainfall dataset is available to public at https://data.pnnl.gov/group/nodes/dataset/33569
+
 ## funding acknowledgment
  This work was supported by the Multisector Dynamics and Regional and Global Model Analysis program areas of the U.S. Department of Energy (DOE), Office of Science, Office of Biological and Environmental Research as part of the multi-program, collaborative Integrated Coastal Modeling (ICoM) project. The Pacific Northwest National Laboratory is operated for DOE by Battelle Memorial Institute under contract DE-AC05-76RL01830. 
 
