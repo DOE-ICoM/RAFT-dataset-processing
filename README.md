@@ -4,7 +4,7 @@
 Jupyter notebook to process RAFT synthetic tropical cyclone dataset and generate the figures and statistics in the paper.
 
 ## how to cite:
-A North Atlantic synthetic tropical cyclone track, intensity, and rainfall dataset. (2024) Wenwei Xu, Karthik Balaguru, David R. Judi, Julian Rice, and L. Ruby Leung, submitted to Scientific Data
+Xu, W., Balaguru, K., Judi, D.R. et al. A North Atlantic synthetic tropical cyclone track, intensity, and rainfall dataset. Sci Data 11, 130 (2024). https://doi.org/10.1038/s41597-024-02952-7
 
 ## get started:
 `50_RAFT_Dataset_postprocessing_and_Paper_plots_20240104_upload.ipynb` is the file to be used for processing RAFT synthetic tropical cyclone dataset and generate the figures and statistics in the paper.
